@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\pre-dexed\debug\android-support-v13-4d22188fce6a11bc5d71ead118624b8bb35d0e7e.jar"
+        jar="C:\AndroidStudioProjects\activity-lifecycle\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87"/>
+
+</pre-dex-items>
