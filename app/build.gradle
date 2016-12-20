@@ -2,7 +2,7 @@ apply plugin: 'android'
 
 android {
     compileSdkVersion 14
-    buildToolsVersion "19.1.0"
+    buildToolsVersion "21.1.0"
 
     defaultConfig {
         applicationId "com.example.android.lifecycle"
